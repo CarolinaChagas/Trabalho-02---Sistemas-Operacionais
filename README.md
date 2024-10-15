@@ -1,6 +1,5 @@
 # Trabalho-02-Sistemas-Operacionais
 
---- 
 
 + Como compilar o programa com Impasse
 
